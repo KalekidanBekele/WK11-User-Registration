@@ -1,4 +1,4 @@
-# Important Steps to Takes to Setup
+# Important Steps to Setup
 -----------------------------------------------
 To get started
 
