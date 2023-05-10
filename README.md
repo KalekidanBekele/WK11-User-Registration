@@ -1,3 +1,11 @@
+#Important Steps to Takes to Setup
+-----------------------------------------------
+You have to change the config.json file to
+match you username, password, and host to your
+database.
+Also, create the database before using:
+npm run dev
+
 # Express Sequelize Authentication Boilerplate
 
 To get started
