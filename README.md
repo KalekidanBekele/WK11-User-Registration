@@ -5,7 +5,8 @@ match you username, password, and host to your
 database.
 Run npm install to install all the packages
 needed.
-Also, create the database before using:
+Also, create the database "custom_auth_tutorial"
+before using:
 -npm run dev
 
 # Express Sequelize Authentication Boilerplate
