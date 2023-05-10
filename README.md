@@ -3,8 +3,10 @@
 You have to change the config.json file to
 match you username, password, and host to your
 database.
+Run npm install to install all the packages
+needed.
 Also, create the database before using:
-npm run dev
+-npm run dev
 
 # Express Sequelize Authentication Boilerplate
 
