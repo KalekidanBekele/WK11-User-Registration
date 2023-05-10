@@ -7,7 +7,7 @@ Run npm install to install all the packages
 needed.
 Also, create the database "custom_auth_tutorial"
 before using:
--npm run dev
+npm run dev
 
 # Express Sequelize Authentication Boilerplate
 
