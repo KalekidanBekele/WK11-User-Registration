@@ -22,5 +22,5 @@ npm run dev
 4. Reconfigure config.json
 5. Run npm run dev
 
-Inspired by my medium post here:
+Inspired by a medium post here:
 https://medium.com/@jgrisafe/custom-user-authentication-with-express-sequelize-and-bcrypt-667c4c0edef5
