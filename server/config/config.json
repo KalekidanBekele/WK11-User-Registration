@@ -1,0 +1,9 @@
+{
+  "development": {
+    "username": "root",
+    "password": "",
+    "database": "custom_auth_tutorial",
+    "host": "localhost",
+    "dialect": "mysql"
+  }
+}
