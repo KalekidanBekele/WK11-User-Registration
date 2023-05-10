@@ -16,6 +16,11 @@ Also, create the database "custom_auth_tutorial"
 before using:
 npm run dev
 
+1. Clone
+2. Install Packages
+3. Create Database
+4. Reconfigure config.json
+5. Run npm run dev
 
 Inspired by my medium post here:
 https://medium.com/@jgrisafe/custom-user-authentication-with-express-sequelize-and-bcrypt-667c4c0edef5
