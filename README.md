@@ -1,4 +1,4 @@
-#Important Steps to Takes to Setup
+# Important Steps to Takes to Setup
 -----------------------------------------------
 You have to change the config.json file to
 match you username, password, and host to your
